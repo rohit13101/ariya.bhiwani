@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@theme {
+  --color-primary: #dc2626; /* red-600 */
+  --color-primary-glow: rgba(220, 38, 38, 0.5);
+}
