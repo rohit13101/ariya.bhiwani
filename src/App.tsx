@@ -79,8 +79,7 @@ export default function App() {
             animate={{ opacity: 1, x: 0 }}
             className="text-2xl font-bold tracking-tighter flex items-center gap-2"
           >
-            <span className="text-red-600">ROHIT</span>
-            <span className="text-zinc-100">ARYA</span>
+            <span className="text-red-600">HARSH</span>
           </motion.a>
 
           {/* Desktop Nav */}
@@ -152,8 +151,7 @@ export default function App() {
               Available for Internships
             </motion.span>
             <h1 className="text-6xl md:text-8xl font-black tracking-tighter leading-none mb-6">
-              ROHIT <br />
-              <span className="text-red-600 drop-shadow-[0_0_15px_rgba(220,38,38,0.3)]">ARYA</span>
+              <span className="text-red-600 drop-shadow-[0_0_15px_rgba(220,38,38,0.3)]">HARSH</span>
             </h1>
             <p className="text-xl md:text-2xl text-zinc-400 font-medium mb-8 max-w-lg">
               BCA Student | <span className="text-zinc-100">Aspiring Software Developer</span>
@@ -214,7 +212,7 @@ export default function App() {
                 </h2>
                 <div className="space-y-6 text-zinc-400 text-lg leading-relaxed">
                   <p>
-                    Hey there! I'm <span className="text-zinc-100 font-medium">Rohit Arya</span>, a tech enthusiast from India currently pursuing my <span className="text-red-500">BCA</span>. 
+                    Hey there! I'm <span className="text-zinc-100 font-medium">harsh</span>, a tech enthusiast from India currently pursuing my <span className="text-red-500">BCA</span>. 
                   </p>
                   <p>
                     As a fresher in the world of software development, I'm constantly curious about how things work under the hood. I enjoy the challenge of solving complex problems and turning ideas into functional code.
@@ -473,11 +471,10 @@ export default function App() {
       <footer className="py-12 border-t border-zinc-900">
         <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex items-center gap-2 text-xl font-bold tracking-tighter">
-            <span className="text-red-600">ROHIT</span>
-            <span className="text-zinc-100">ARYA</span>
+            <span className="text-red-600">HARSH</span>
           </div>
           <p className="text-zinc-500 text-sm">
-            &copy; {new Date().getFullYear()} Rohit Arya. All rights reserved.
+            &copy; {new Date().getFullYear()} harsh. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-zinc-500">
             <a href="#" className="hover:text-red-500 transition-colors">Privacy Policy</a>
